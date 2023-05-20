@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571398103298",
+    "project_id": "tccds20232s",
+    "storage_bucket": "tccds20232s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571398103298:android:36145b3540131186e0221b",
+        "android_client_info": {
+          "package_name": "br.com.etec.dtccds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571398103298-bu5ljdj3mlmqir9nb3tsgshmsmcar1ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLx2QnmRRF5pb9kwF_D6GAfh3YTME4qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571398103298-bu5ljdj3mlmqir9nb3tsgshmsmcar1ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
